@@ -11,7 +11,7 @@ Hence, can we take a build that we know is working for our machine, and take its
 
 ## Use cases
 
-AlexELEC has support for Amlogic __S805__ (even 512 MB "fake 1 GB" MXQ boxes), S812, S905 / S905X / 905D / 905W and S912. It also comes with Tvheadend
+AlexELEC has support for Amlogic __S805__ (even [512 MB "fake 1 GB" MXQ boxes](https://gist.github.com/probonopd/809b89cf1d76e629dd7bb3f5d788be29)), S812, S905 / S905X / 905D / 905W and S912. It also comes with Tvheadend
 
 Using e.g., the S805.MXQ_V31 build from https://github.com/AlexELEC/AE-AML/releases,
 
