@@ -33,3 +33,14 @@ Using e.g., the S805.MXQ_V31 build from https://github.com/AlexELEC/AE-AML/relea
 ## Shortcut 
 
 Even though the squashfs extraction and recompression is relatively quick, we could be even quicker by appending to the original squashfs rather than extracting it.
+
+```
+sudo su
+mount SYSTEM /mnt
+cp /mnt/specific_dir $home  ##modify $home/specific_dir as needed
+mksquashfs /mnt new_squashfs_file -wildcards -e specific_dir
+mksquashfs $home/specific_dir new_squashfs_file -keep-as-directory
+umount /mnt  # cleanup
+```
+
+Source: https://unix.stackexchange.com/a/402658
