@@ -1,4 +1,5 @@
 # ELEC-Remixer
+
 Remix AlexELEC, OpenELEC, LibreELEC, CoreELEC,...
 
 ## Motivation
@@ -8,7 +9,11 @@ Remix AlexELEC, OpenELEC, LibreELEC, CoreELEC,...
 
 Hence, can we take a build that we know is working for our machine, and take its "hardware support" files and "transplant" them into the distribution we want to run?
 
-Point in case: I want to have LAKKA for S805.MXQ_V31.
+## Use cases
+
+* I want to have LAKKA for S805.MXQ_V31
+* I want to have AlexELEC but without the Russian preconfiguration
+* I want to pre-bundle my own set of add-ons and preconfiguration
 
 ## Theory of operation
 
