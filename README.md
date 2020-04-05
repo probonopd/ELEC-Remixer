@@ -27,7 +27,7 @@ Using e.g., the S805.MXQ_V31 build from https://github.com/AlexELEC/AE-AML/relea
 - Extract image
 - Extract squashfs
 - Make needed modifications
-- Recreate squashfs
+- Recreate squashfs (see the `image` scripts at https://github.com/AlexELEC/AE-AML/tree/master/scripts)
 - Recreate .img.gz (for new installations) and .tar (for updating)
 
 ## Shortcut 
