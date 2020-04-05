@@ -20,6 +20,8 @@ Using e.g., the S805.MXQ_V31 build from https://github.com/AlexELEC/AE-AML/relea
 * I want to have LAKKA for S805.MXQ_V31
 * I want to have AlexELEC but without the Russian preconfiguration
 * I want to use a kernel that can load the `9083xu.ko` module
+* I want to integrate additional software, e.g., from https://www.artembutusov.com/libreelec-entware-ng-installation/
+* I want to use a non-ELEC distribution with the ELEC based SYSTEM squashfs approach - doable?
 
 ## Theory of operation
 
