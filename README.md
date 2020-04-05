@@ -19,6 +19,7 @@ Using e.g., the S805.MXQ_V31 build from https://github.com/AlexELEC/AE-AML/relea
 * I want to pre-bundle my own set of add-ons (`squashfs-root/usr/share/kodi/addons/`)
 * I want to have LAKKA for S805.MXQ_V31
 * I want to have AlexELEC but without the Russian preconfiguration
+* I want to use a kernel that can load the `9083xu.ko` module
 
 ## Theory of operation
 
